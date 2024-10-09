@@ -17,7 +17,7 @@ The SVFC Portal is designed to provide both students and professors with a user-
 However, while the project may include a basic administrative section, it will not be fully functional. This means that tasks such as managing student enrollments, validating accounts, distributing documents, assigning courses, or organizing students into their respective sections and academic years may be limited. As a result, some aspects of course management will not be fully addressed in the initial implementation. 
   
  
- 
+ ![Picture1](https://github.com/user-attachments/assets/04aa9a34-95cb-4a06-9d5a-a4efd40fbf2f)
  
  
 D. Work breakdown Structure 
@@ -45,4 +45,4 @@ F. Database Architecture
 
 
 
-![Picture1](https://github.com/user-attachments/assets/04aa9a34-95cb-4a06-9d5a-a4efd40fbf2f)
+

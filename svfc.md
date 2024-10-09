@@ -5,7 +5,14 @@ In today's digital age, technology plays a crucial role in enhancing educational
 
 B. Project Description:
 
-At St. Vincent de Ferrer College, we are committed to improving the online platform to better serve both students and professors. Our goal is to make the system easier to use, more efficient, and visually appealing. We’re focused on creating an interface that allows students to access learning materials quickly and easily, while enabling professors to manage their courses without hassle. By enhancing the user experience, we aim to build a system that is practical, user-friendly, and engaging for everyone.
+At St. Vincent de Ferrer College, we are committed to improving the online platform to better serve both students and professors. 
+
+Our goal is to make the system easier to use, more efficient, and visually appealing. We’re focused on creating an interface that allows students to access learning materials quickly and easily, while enabling professors to manage their courses without hassle. By enhancing the user experience, we aim to build a system that is practical, user-friendly, and engaging for everyone.
+
+
+
+
+
 C. Project Objectives:
 Develop a SVFC Portal to help manage their learning visual and the accessibility with the following features:
 User-Friendly
@@ -16,11 +23,16 @@ Develop a SVFC Portal to help manage their learning visual and the accessibility
 Progress Tracking
 Assignment Submission Portal
 Facilitate Course Management
+
+
+
+
 D. Business Benefits:
 Benefit 1
 Benefit 2
 Benefit 3
 Benefit 4
+
 E. Project Deliverables:
 1.Requirements
 oResearch and analysis
@@ -29,18 +41,31 @@ oUser stories
 oUse case
 oData dictionary
 oDiagrams (ER, Dataflow)
+
+
 2.Design
 oLow fidelity
 oHigh fidelity
 oPrototype
+
+
+
 3.Development
+
 4.Testing
 oFunctional
 oNon-functional
+
+
+
 5.Deployment
 oUser acceptance testing
 F. Benchmarking:
 School portal
+
+
+
+
 G. Estimated Project Duration:
 [Your estimate here]
 Reference:
